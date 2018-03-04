@@ -1,0 +1,7 @@
+Name       : Vinay
+Patient ID : 1
+Doctor ID  : 1000
+Appointment ID : 100
+
+Observation:
+	Heart is in good condition.Consult your doctor for any other queries.
